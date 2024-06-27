@@ -25,7 +25,7 @@ function Projects() {
           src={BudGenius}
           link="https://github.com/Manav-K/BudGenius"
           h3="BudGenius"
-          p="Expense Tracking Application"
+          p="Expense Tracker"
         />
       </div>
     </section>
